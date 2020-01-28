@@ -1,0 +1,28 @@
+/*
+ejercicio 3
+procesar ventas de gasolinera durante 5 dias
+al menos un vehiculo por dia...
+datos por vehiculo:
+
+litros comprados
+tipo de vehiculo (taxi, particular, bus)
+tipo de combustible (gasolina: con plomo, sin plomo diesel.)
+solo un tipo de combustible por vehiculo..
+genero del conductor
+
+calcule y muestre un mensaje dando respuesta a las siguientes preguntas:
+	
+pedir la informacion del vehiculo
+	
+indicar cuantos litros se vendieron del tipo diesel durante el dia
+	
+indicar cuantos vehiculos de tipo particular fueron atendidos
+el precio de combustible por litro es: con-plomo 1.2, sin plomo 1.5, 0.8
+	
+calcule e indique cuanto se gano por la venta de gasolina con plomo y diesel, durante 5 dias.
+
+	
+en base al total de vehiculos atendidos durante los 5 dias indique que porcentaje representan los vehiculos de tipo taxi.
+	
+indique total de litros vendidos de cada combustible durante los 5 dias.
+	*/
